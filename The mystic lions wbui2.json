@@ -1,0 +1,57 @@
+{
+    "The Mystic Lions Community": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/a/JszwjQQ",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome to The Mystic Lions community",
+                    "title1": "Thanks for installing WBUI2!",
+                    "text1": "We are a friendly community for all players but u need to be mature and keep in mind the we treat each other with respect. We are a growing community and we like to discuss games and gaming. Feel free to join our discord channel. There u can meet with our owners Metalfeather and Coldplay. We are in the discord voice channel every night to help out and chatting!ASA servers are under construction and testing now in the start soo expect some changes and we want help to build this community soo please come with suggestions and thoughts about the servers soo we can build a better communty for us all.Hope u enjoy our community!",
+                    "imageurl": "https://imgur.com/a/YUsiuTJ"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "ASA Server",
+                    "title1": "ASA The Island:",
+                    "text1": "<TextStyle.LightBlue>The Island:</>\n\n\\This is our first ASA server, we are testing it out and see whats is good settings and mods for quality of life in the server, feel free to come with comments and suggestions for the server. Admins are Metelfether and Coldplay contact them in the discord channel for help.\n\n",
+                    "title2": "mods",
+                    "text2": "This ASA server is under construction and testing so its going to be changes in stats and mods.\n\nThese are the mods to date 16.11.23. Mods: [TG Stacking Mod 1000-50][Super Spyglass Plus][Death Inventory Keeper][WBUI2][Puller][Omega Dino Storage]",
+                    "title4": "Stats",
+                    "text4": "Stats: [Xp: 1x][EggHatching: 8x][BabyMature: 8x][LayEggInterval: 0.4x][MatingInterval: 0.4x]\n",
+                    "imageurl": "https://imgur.com/a/YUsiuTJ"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Rules for The Mystic Lions Community",
+                    "text1": "<TextStyle.Green>Communication<> \n Global chat and discord are to be English ONLY!\n Don’t be THAT person.Be respectful! You don’t know who is on the other side of the screen, it might be a child, it might be an admin on their non-admin account. Treat others how you want to be treated! \n Intentionally causing harm to the servers(DDoS,Crashing, being toxic or a drama queen) will result in a permanent ban!\n <TextStyle.Green>Naming</> \n Names(character, dino or tribe) may not contain any vulgar, defamatory, obscene, hateful, racially, ethnically or otherwise offensive words If you have tribes on multiple maps, please make your tribe name the same.If staff determines your name to be improper, we will change the name.\n <TextStyle.Green>Building</> \n No building within 100 foundations of another player. If you can see them, you are to close.\n One home base per map(one generator on max range, shows the build area) and two fobs(not to exceed a 5x5x8).\n Any mobile setup must be returned to the home base. Any left in the open will be removed.\n Do not block access to any artifact, spawn point(s), obelisk, loot crate, bosses(including mini’s) or explorer note(s).\n No methods of reserving space are allowed. Any found will be removed on sight. Any resource gathering structure(oil pumps, gas collectors, sap taps ect) must be unlocked.\n Anything built for taming, cave crawling or other activities MUST BE REMOVED when you are done.\n NO building in resource rich areas or blocking spawns of beaver dams. When in doubt, just don’t do it.\n <TextStyle.Green>Selling/Trading</> \n Everything traded or sold must contain some form of payment. All mutated dino’s need to be clipped(ie neutered or spayed, by using the E Menu! if you fail to clip your dino its on you if your breed line gets out). Selling dinos you did not breed or tame is against the rules! Staff is not responsible for trades gone bad, double check everything! <TextStyle.Green>Recoveries</> +n Will only be granted on a verified server issue. \n <TextStyle.Red>Toxic players/Drama queens</> \n There is a zero tolerance policy with toxic or drama causing players. One warning then banned!! Please cooperate with these rules and guidelines to help us maintain a drama free, friendly and fun cluster.",
+                    "imageurl": "https://imgur.com/a/YUsiuTJ"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/7XYYASn6"
+                }
+            }
+        ]
+    }
+}
